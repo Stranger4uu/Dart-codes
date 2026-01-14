@@ -11,7 +11,7 @@ for example
 
   String someValue = "Hello world"; 
 
-here someValue is ex of camel casing
+here someValue is exm. of camel casing
 */
 
 // we can also reassign the values 
