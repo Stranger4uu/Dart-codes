@@ -59,7 +59,3 @@ for example
  final value can be run time variav
 
 */
-
-
-
- 
