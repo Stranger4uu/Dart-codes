@@ -91,7 +91,7 @@ switch(someValue){
   default:
     print('! hey....');
 }
-// In dart we don't need to add " break; " like in other languages 
-
+// In dart we don't need to add " break; " like in other languages but when we have empty cases we need to put break;
+// Switch also don't allow relational operators 
 }
 */
