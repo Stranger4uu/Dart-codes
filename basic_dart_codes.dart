@@ -66,3 +66,32 @@ for example
  final value can be run time variav
 
 */
+
+/*
+ void main(){
+  String someValue = 'hello';
+  if(someValue.startsWith('h')){
+    print("It starts with ' h '");
+  }else{
+    print("It doesn't srats with ' h '");
+  }
+
+
+// ternary
+String value = someValue.startsWith('h') ? 'Yes' : 'no' ;
+print(value);
+
+// Or
+print(someValue.startsWith('h') ? 'Yes' : 'no' );
+
+// Switch statement 
+switch(someValue){
+  case 'hello':
+    print('hey.....');
+  default:
+    print('! hey....');
+}
+// In dart we don't need to add " break; " like in other languages 
+
+}
+*/
