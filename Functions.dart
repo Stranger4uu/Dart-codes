@@ -27,7 +27,7 @@ String hello_world(){
 // void does not return anything , not even null 
 
 void main(){
-  String name = "Yash here";
+  String name = "Yash here"; // Local variable
   printName(name);
 }
 void printName(String name){
