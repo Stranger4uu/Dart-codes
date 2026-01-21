@@ -2,7 +2,7 @@
 
      <code>
 }
-*/
+
 void Name(){
   String my_Name = 'Yash';
   print(my_Name);
@@ -22,6 +22,14 @@ String hello_world(){
   print(world);
   return 'Hello_World';
 }
-
+*/
 // There are some examples of function , we can use any data type 
 // void does not return anything , not even null 
+
+void main(){
+  String name = "Yash here";
+  printName(name);
+}
+void printName(String name){
+  print(name);
+}
