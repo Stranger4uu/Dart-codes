@@ -1,3 +1,5 @@
+// lists can have same elements again but sets can't
+
 /* 
 void main(){
   String greeting = "hey...";
